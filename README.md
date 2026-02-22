@@ -1,4 +1,6 @@
 <img width="487" height="75" alt="image" src="https://github.com/user-attachments/assets/6f036b45-bc82-40f6-a290-a441fc47d2a2" />
+
+---
 ## Overview
 
 This project focuses on detecting fraudulent credit card transactions using supervised machine learning techniques. The objective is to classify transactions as legitimate or fraudulent based on historical transaction data.
