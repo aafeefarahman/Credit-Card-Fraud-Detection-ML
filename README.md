@@ -52,9 +52,8 @@ This project focuses on detecting fraudulent credit card transactions using supe
 
 ### 1. Confusion Matrix
 
-Paste the screenshot below this heading.
+<img width="258" height="216" alt="image" src="https://github.com/user-attachments/assets/e230c6ab-cbb4-448f-aacf-2e6d676e1572" />
 
-Description:
 
 * Shows correctly and incorrectly classified transactions
 * Displays True Positives, True Negatives, False Positives, and False Negatives
@@ -64,9 +63,8 @@ Description:
 
 ### 2. ROC Curve
 
-Paste the screenshot below this heading.
+<img width="304" height="256" alt="image" src="https://github.com/user-attachments/assets/ba11276f-c44c-4735-afd4-166ca7160ebb" />
 
-Description:
 
 * Shows trade-off between True Positive Rate and False Positive Rate
 * A higher AUC score indicates better classification performance
@@ -76,9 +74,8 @@ Description:
 
 ### 3. Transaction Amount by Class
 
-Paste the screenshot below this heading.
+<img width="308" height="217" alt="image" src="https://github.com/user-attachments/assets/fac89ffe-8334-4bfd-af61-d5f734864170" />
 
-Description:
 
 * Compares transaction amounts between legitimate and fraudulent transactions
 * Helps identify spending behavior patterns
@@ -103,12 +100,6 @@ Description:
 
 ---
 
-## Author
 
-Afeefa Rahman
-
----
-
-This version looks structured, clean, and professional for GitHub and placements.
 
 
